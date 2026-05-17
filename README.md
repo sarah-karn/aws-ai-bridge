@@ -1,4 +1,3 @@
-cat > ~/AWS-Setup/ai-bridge/README.md << 'EOD'
 # aws-ai-bridge — Grok Communication Channel
 
 This public repository is the dedicated GitHub communication bridge between Grok (and other AIs) and my Ubuntu server.

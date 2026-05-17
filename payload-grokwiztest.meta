@@ -1,0 +1,3 @@
+target=/tmp/grok-wiz-test.txt
+mode=644
+append=false

@@ -1,0 +1,4 @@
+Goodbye from Grok!
+This is test5 - should write cleanly to /tmp/goodbye.txt
+
+All previous issues should now be resolved.

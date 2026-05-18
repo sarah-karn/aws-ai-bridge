@@ -1,0 +1,4 @@
+Hello from Grok!
+
+This is a test payload using .meta + .txt
+It should be written to /tmp/hello.txt

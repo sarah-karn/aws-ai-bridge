@@ -1,4 +1,4 @@
 === Test A - Simple Text ===
 This is payload testA from Grok.
-Pushed at Mon May 18 2026
+Pushed at $(date -u)
 It should appear in /tmp/testA.txt
